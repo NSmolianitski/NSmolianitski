@@ -9,7 +9,7 @@
 - 📫 How to reach me: ✉️ <n.smolianitski@gmail.com>, [vkontakte](https://vk.com/storewars), <img src="icon_clyde_blurple_RGB.png" height="16" alt="discord-icon"/> [Nemirt#0498](README.md)
 
 <h3 align="left">C++ projects:</h3>
-- 📫 How to reach me: ✉️ <n.smolianitski@gmail.com>, [vkontakte](https://vk.com/storewars), <img src="icon_clyde_blurple_RGB.png" height="16" alt="discord-icon"/> [Nemirt#0498](README.md)
+
 IRC-server: [IrishaIRC](https://github.com/NSmolianitski/IrishaIRC)
 
 <h3 align="left">Languages and Tools:</h3>
