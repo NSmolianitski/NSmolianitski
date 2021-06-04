@@ -1,8 +1,7 @@
 <h2 align="center">Hi 👋, I'm Nikita Smolianitski</h2>
 <h4 align="center">Not too young programming padawan</h4>
 
-<h4 align="center">[![pkentaur 42 stats](https://badge42.herokuapp.com/api/stats/pkentaur)](https://github.com/JaeSeoKim/badge42)
-</h4>
+[![pkentaur 42 stats](https://badge42.herokuapp.com/api/stats/pkentaur)](https://github.com/JaeSeoKim/badge42)
 
 
 - 📚 I’m currently learning **C++** and **C#**
