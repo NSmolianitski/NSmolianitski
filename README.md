@@ -1,12 +1,11 @@
 <h2>Hi 👋, I'm Nikita Smolianitski</h2>
-<h4>Not too young programming padawan</h4>
 
 [![pkentaur 42 stats](https://badge42.herokuapp.com/api/stats/pkentaur)](https://github.com/JaeSeoKim/badge42)
 
 
 - 📚 I’m currently learning **C++** and **C#**
 
-- ☎️ How to reach me: ✉️ <n.smolianitski@gmail.com>, [vkontakte](https://vk.com/storewars), <img src="discord.png" height="16" alt="discord-icon"/> [Nemirt#0498][1]
+- ☎️ How to reach me: ✉️ <n.smolianitski@gmail.com>, [vkontakte](https://vk.com/storewars), <img src="discord.png" height="14" alt="discord-icon"/> [Nemirt#0498][1]
 
 <h3 align="left">C++ projects:</h3>
 
