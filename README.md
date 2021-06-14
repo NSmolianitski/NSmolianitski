@@ -1,4 +1,7 @@
-<h2>Hi, I'm Nikita Smolianitski</img></h2>
+<h2>
+    <img src="doormat.svg" align="center" height="40" alt="phone-book-icon">Hi, I'm Nikita Smolianitski</img>
+</h2>
+
 <h4>Studying in Programming 
     <a href="https://21-school.ru">School 21</a> (<a href="https://www.42.fr">Ecole 42</a>)
 </h4>
