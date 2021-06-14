@@ -1,5 +1,5 @@
 <h2>Hi 👋, I'm Nikita Smolianitski</h2>
-<h4>Studying in Programming School 21 ([Ecole 42][2])</h4>
+<h4>Studying in Programming School 21 (<a href="https://www.42.fr">Ecole 42</a>)</h4>
 
 [![pkentaur 42 stats](https://badge42.herokuapp.com/api/stats/pkentaur)](https://github.com/JaeSeoKim/badge42)
 
