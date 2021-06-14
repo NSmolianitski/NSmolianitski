@@ -1,14 +1,14 @@
-<h2>Hi 👋, I'm Nikita Smolianitski</h2>
+<h2>Hi <img src="hello.svg" align="center" height="30" alt="hello-icon">, I'm Nikita Smolianitski</img></h2>
 <h4>Studying in Programming <a href="https://21-school.ru">School 21</a> (<a href="https://www.42.fr">Ecole 42</a>)</h4>
 
 [![pkentaur 42 stats](https://badge42.herokuapp.com/api/stats/pkentaur)](https://github.com/JaeSeoKim/badge42)
 
 
-📚 I’m currently learning **C++** and **C#**
+<img src="book.svg" align="center" height="30" alt="book-icon"> I’m currently learning **C++** and **C#** </img>
 
 <h2>
   <a href="#">
-    <img src="phone-book.svg" align="center" height="30" alt="phone-book-icon"></a> How to reach me:</img>
+    <img src="phone-book.svg" align="center" height="30" alt="phone-book-icon"> How to reach me:</img>
 </h2>
 
 <a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" align="center" height="30" alt="letter-icon"></a> <n.smolianitski@gmail.com></img>
