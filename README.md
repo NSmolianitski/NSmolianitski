@@ -1,6 +1,6 @@
 
 <h2>
-    <img src="doormat.svg" align="bottom" alt="phone-book-icon"> I'm Nikita Smolianitski
+    Hi, I'm Nikita Smolianitski!
 </h2>
 
 <h4>Studying in Programming 
