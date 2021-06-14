@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning **C++** and **C#**
 
-- <div style="display: flex; align-items:center;"><a href="#"><img src="phone-book.svg" height="30" alt="phone-book-icon"></a> How to reach me: <a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" height="30" alt="letter-icon"></a> <n.smolianitski@gmail.com>, <a href="https://vk.com/storewars"><img src="vk.svg" height="30" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars), <a href="https://discordapp.com/users/217396522583588866"><img src="discord.svg" height="30" alt="discord-icon"></a> [Nemirt#0498][1]</div>
+- <a href="#"><img src="phone-book.svg" height="30" alt="phone-book-icon"></a> How to reach me: <a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" height="30" alt="letter-icon"></a> <n.smolianitski@gmail.com>, <a href="https://vk.com/storewars"><img src="vk.svg" height="30" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars), <a href="https://discordapp.com/users/217396522583588866"><img src="discord.svg" height="30" alt="discord-icon"></a> [Nemirt#0498][1]
 
 <h3 align="left">C++ projects:</h3>
 
@@ -14,10 +14,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
-
-.box {
-   display: flex;
-   align-items:center;
-}
 
 [1]:https://discordapp.com/users/217396522583588866
