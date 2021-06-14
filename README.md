@@ -3,8 +3,8 @@
     Hi, I'm Nikita Smolianitski
 </h2>
 
-<h4>Studying in Programming 
-    <a href="https://21-school.ru">School 21</a> (<a href="https://www.42.fr">Ecole 42</a>)
+<h4>I am currently studying in Programming 
+    <a href="https://21-school.ru">School 21</a> (<a href="https://www.42.fr">Ecole 42</a>):
 </h4>
 
 [![pkentaur 42 stats](https://badge42.herokuapp.com/api/stats/pkentaur)](https://github.com/JaeSeoKim/badge42)
