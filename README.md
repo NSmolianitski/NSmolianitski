@@ -7,12 +7,12 @@
 <img src="book.svg" align="center" height="30" alt="book-icon"> I’m currently learning **C++** and **C#** </img>
 
 <h2>
-    <img src="phone-book.svg" align="center" height="30" alt="phone-book-icon"> How to reach me:</img>
+    <img src="phone-book.svg" align="center" height="40" alt="phone-book-icon"> How to reach me:</img>
 </h2>
 
-<a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" align="center" height="30" alt="letter-icon"></a> <n.smolianitski@gmail.com></img>
-<a href="https://vk.com/storewars"><img src="vk.svg" align="center" height="30" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars)</img>
-<a href="https://discordapp.com/users/217396522583588866"><img src="discord.svg" align="center" height="30" alt="discord-icon"></a> [Nemirt#0498][1] </img>
+<a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" align="center" height="40" alt="letter-icon"></a> <n.smolianitski@gmail.com></img>
+<a href="https://vk.com/storewars"><img src="vk.svg" align="center" height="40" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars)</img>
+<a href="https://discordapp.com/users/217396522583588866"><img src="discord.svg" align="center" height="40" alt="discord-icon"></a> [Nemirt#0498][1] </img>
 
 <h3 align="left">C++ projects:</h3>
 
