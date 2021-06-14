@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning **C++** and **C#**
 
-- <a href="README.md"><img src="phone-book.png" height="20" alt="phone-book-icon"></a> How to reach me: <a href="mailto:n.smolianitski@gmail.com"><img src="letter.png" height="20" alt="letter-icon"></a> <n.smolianitski@gmail.com>, <a href="https://vk.com/storewars"><img src="vk.png" height="20" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars), <a href="https://discordapp.com/users/217396522583588866"><img src="discord.png" height="22" alt="discord-icon"></a> [Nemirt#0498][1]
+- <a href="#README.md"><img src="phone-book.png" height="20" alt="phone-book-icon"></a> How to reach me: <a href="mailto:n.smolianitski@gmail.com"><img src="letter.png" height="20" alt="letter-icon"></a> <n.smolianitski@gmail.com>, <a href="https://vk.com/storewars"><img src="vk.png" height="20" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars), <a href="https://discordapp.com/users/217396522583588866"><img src="discord.png" height="22" alt="discord-icon"></a> [Nemirt#0498][1]
 
 <h3 align="left">C++ projects:</h3>
 
