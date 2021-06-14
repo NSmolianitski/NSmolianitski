@@ -1,5 +1,5 @@
 <h2>
-    <img src="doormat.svg" height="70" alt="phone-book-icon"> I'm Nikita Smolianitski</img>
+    <img src="doormat.svg" height="65" alt="phone-book-icon"> I'm Nikita Smolianitski</img>
 </h2>
 
 <h4>Studying in Programming 
@@ -7,6 +7,8 @@
 </h4>
 
 [![pkentaur 42 stats](https://badge42.herokuapp.com/api/stats/pkentaur)](https://github.com/JaeSeoKim/badge42)
+
+
 
 
 <img src="book.svg" align="center" height="30" alt="book-icon"> I’m currently learning **C++** and **C#** </img>
