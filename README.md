@@ -7,7 +7,6 @@
 <img src="book.svg" align="center" height="30" alt="book-icon"> I’m currently learning **C++** and **C#** </img>
 
 <h2>
-  <a href="#">
     <img src="phone-book.svg" align="center" height="30" alt="phone-book-icon"> How to reach me:</img>
 </h2>
 
