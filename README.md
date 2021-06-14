@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **C++** and **C#**
 
-- ☎️ How to reach me: ✉️ <n.smolianitski@gmail.com>, [vkontakte](https://vk.com/storewars), <img src="discord.png" height="14" alt="discord-icon"/> [Nemirt#0498][1]
+- ☎️ How to reach me: ✉️ <n.smolianitski@gmail.com>, <img src="vk.png" height="14" alt="vk-icon"/> [vkontakte](https://vk.com/storewars), <img src="discord.png" height="14" alt="discord-icon"/> [Nemirt#0498][1]
 
 <h3 align="left">C++ projects:</h3>
 
