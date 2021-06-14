@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **C++** and **C#**
 
-- [ a][2] How to reach me: <a href="mailto:n.smolianitski@gmail.com"><img src="letter.png" height="20" alt="letter-icon"/></a> <n.smolianitski@gmail.com>, <a href="https://vk.com/storewars"><img src="vk.png" height="20" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars), <a href="https://discordapp.com/users/217396522583588866"><img src="discord.png" height="22" alt="discord-icon"></a> [Nemirt#0498][1]
+- <img src="phone-book.png" height="20" alt="phone-book-icon"/> How to reach me: <a href="mailto:n.smolianitski@gmail.com"><img src="letter.png" height="20" alt="letter-icon"/></a> <n.smolianitski@gmail.com>, <a href="https://vk.com/storewars"><img src="vk.png" height="20" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars), <a href="https://discordapp.com/users/217396522583588866"><img src="discord.png" height="22" alt="discord-icon"></a> [Nemirt#0498][1]
 
 <h3 align="left">C++ projects:</h3>
 
@@ -15,4 +15,3 @@
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
 
 [1]:https://discordapp.com/users/217396522583588866
-[2]:<img src="phone-book.png" height="20" alt="phone-book-icon"/>
