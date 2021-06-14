@@ -6,7 +6,7 @@
 
 - 📚 I’m currently learning **C++** and **C#**
 
-- <a href="#"><img src="phone-book.svg" align="center" height="30" alt="phone-book-icon"></a> How to reach me: </img><a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" align="center" height="30" alt="letter-icon"></a> <n.smolianitski@gmail.com></img>, <a href="https://vk.com/storewars"><img src="vk.svg" align="center" height="30" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars)</img>, <a href="https://discordapp.com/users/217396522583588866"><img src="discord.svg" align="center" height="30" alt="discord-icon"></a> [Nemirt#0498][1] </img>
+- <a href="#"><img src="phone-book.svg" align="center" height="30" alt="phone-book-icon"></a> How to reach me:  </img><a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" align="center" height="30" alt="letter-icon"></a> <n.smolianitski@gmail.com></img> <a href="https://vk.com/storewars"><img src="vk.svg" align="center" height="30" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars)</img>  <a href="https://discordapp.com/users/217396522583588866"><img src="discord.svg" align="center" height="30" alt="discord-icon"></a> [Nemirt#0498][1] </img>
 
 <h3 align="left">C++ projects:</h3>
 
