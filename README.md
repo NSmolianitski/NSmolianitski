@@ -1,6 +1,6 @@
 
 <h2>
-    Hi, I'm Nikita Smolianitski!
+    Hi, I'm Nikita Smolianitski
 </h2>
 
 <h4>Studying in Programming 
