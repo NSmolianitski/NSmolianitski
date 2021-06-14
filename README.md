@@ -1,5 +1,5 @@
 <h2>
-    <img src="doormat.svg" align="center" height="60" alt="phone-book-icon"> Hi, I'm Nikita Smolianitski</img>
+    <img src="doormat.svg" align="center" height="80" alt="phone-book-icon"> I'm Nikita Smolianitski</img>
 </h2>
 
 <h4>Studying in Programming 
