@@ -12,7 +12,7 @@
 
 
 
-<img src="book.svg" align="center" height="30" alt="book-icon"> I’m currently learning **C++** and **C#** </img>
+<img src="book.svg" align="center" height="30" alt="book-icon"> I’m currently learning **C++**, **C#** and **TypeScript** </img>
 
 <h2>
     <img src="phone-book.svg" align="center" height="40" alt="phone-book-icon"> How to reach me:</img>
