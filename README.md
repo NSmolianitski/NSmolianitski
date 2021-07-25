@@ -31,6 +31,7 @@
 
 - Multithreading Philosophers task: [Philosophers](https://github.com/NSmolianitski/Philosophers)
 - Shell that emulates Bash: [Minishell](https://github.com/NSmolianitski/minishell)
+- Simple raycasting maze: [Cub3D](https://github.com/NSmolianitski/Cub3D)
 
 <h3 align="left">Other projects:</h3>
 
