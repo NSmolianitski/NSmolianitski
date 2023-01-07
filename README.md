@@ -5,8 +5,6 @@
 
 <h4>I am a Unity developer in Dorfer Games</h4>
 
-<img src="book.svg" align="center" height="30" alt="book-icon"> I’m currently learning **C#** and **Unity** </img>
-
 <h2>
     <img src="phone-book.svg" align="center" height="40" alt="phone-book-icon"> How to reach me:</img>
 </h2>
