@@ -3,14 +3,7 @@
     Hi, I'm Nikita Smolianitski
 </h2>
 
-<h4>I am studying in Programming 
-    <a href="https://21-school.ru">School 21</a> (<a href="https://www.42.fr">Ecole 42</a>):
-</h4>
-
-[![pkentaur 42 stats](https://badge42.herokuapp.com/api/stats/pkentaur)](https://github.com/JaeSeoKim/badge42)
-
-
-
+<h4>I am a Unity developer in Dorfer Games</h4>
 
 <img src="book.svg" align="center" height="30" alt="book-icon"> I’m currently learning **C#** and **Unity** </img>
 
