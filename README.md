@@ -15,7 +15,7 @@
 
 <h3 align="left">Unity projects:</h3>
 
-- Game about shadows: [InTheShadows](https://github.com/NSmolianitski/In-the-shadows)
+- Game about shadows: [In The Shadows](https://github.com/NSmolianitski/In-the-shadows)
 
 <h3 align="left">C++ projects:</h3>
 
