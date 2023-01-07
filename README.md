@@ -13,6 +13,10 @@
 <a href="https://vk.com/storewars"><img src="vk.svg" align="center" height="40" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars)</img>
 <a href="https://discordapp.com/users/217396522583588866"><img src="discord.svg" align="center" height="40" alt="discord-icon"></a> [Nemirt#0498][1] </img>
 
+<h3 align="left">Unity projects:</h3>
+
+- Game about shadows: [InTheShadows](https://github.com/NSmolianitski/In-the-shadows)
+
 <h3 align="left">C++ projects:</h3>
 
 - IRC-server: [IrishaIRC](https://github.com/NSmolianitski/IrishaIRC)
