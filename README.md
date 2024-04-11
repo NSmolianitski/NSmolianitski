@@ -13,6 +13,9 @@
 <a href="https://vk.com/storewars"><img src="vk.svg" align="center" height="40" alt="vk-icon"></a> [vkontakte](https://vk.com/storewars)</img>
 <a href="https://discordapp.com/users/217396522583588866"><img src="discord.svg" align="center" height="40" alt="discord-icon"></a> [Nemirt#0498][1] </img>
 
+<h3 align="left">Java projects:</h3>
+- Simple bank REST-application: [Bank](https://github.com/NSmolianitski/Bank)
+
 <h3 align="left">Unity projects:</h3>
 
 - Game about shadows: [In The Shadows](https://github.com/NSmolianitski/In-the-shadows)
