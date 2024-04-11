@@ -3,12 +3,6 @@
     Hi, I'm Nikita Smolianitski
 </h2>
 
-<h4>I am a Unity developer in Dorfer Games</h4>
-
-<h2>
-    <img src="phone-book.svg" align="center" height="40" alt="phone-book-icon"> How to reach me:</img>
-</h2>
-
 <a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" align="center" height="40" alt="letter-icon"></a> <n.smolianitski@gmail.com></img>
 
 <h3 align="left">Java projects:</h3>
