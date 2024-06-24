@@ -1,10 +1,6 @@
 
 <a href="mailto:n.smolianitski@gmail.com"><img src="letter.svg" align="center" height="40" alt="letter-icon"></a> <n.smolianitski@gmail.com></img>
 
-<h3 align="left">Java projects:</h3>
-
-- Simple bank REST-application: [Bank](https://github.com/NSmolianitski/Bank)
-
 <h3 align="left">Unity projects:</h3>
 
 - Game about shadows: [In The Shadows](https://github.com/NSmolianitski/In-the-shadows)
